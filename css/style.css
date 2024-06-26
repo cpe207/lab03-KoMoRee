@@ -1,0 +1,126 @@
+*
+{
+    margin: 0;
+    font-family: oswald;
+
+}
+
+body
+{
+    
+   
+}
+
+h1
+{
+    font-size: 6rem;
+    font-family: oswald;
+    font-weight: 600;
+  
+    text-align: center;
+}
+
+#navbar
+{
+    border: 0cap;
+    margin: 0;
+    
+    font-size: 2rem;
+    text-align: center;
+
+}
+
+
+
+h4
+{
+    color:rgb(190, 76, 235);
+    font-size: 45px;
+    text-align: center;
+
+}  
+
+h5
+{
+    color:rgb(133, 91, 250);
+    font-size: 35px;
+    text-align: center;
+
+}
+
+h6
+{
+    padding-left: 40%;
+    color:rgb(0, 0, 0);
+    font-size: 30px;
+    text-align: left;
+}
+
+#detailExWork
+{
+    font-family: Chakra Petch ;
+    font-weight: 200;
+    padding-left: 44%;
+    
+    font-size: 2rem;
+    text-align: left;
+}
+
+/*----------------------------- Lab 3 -----------------------------*/
+
+html
+{
+    font-size: 16px;
+}
+
+#profile
+{
+    
+    
+    width: 100%;
+    
+}
+
+#name
+{
+    font-family: Chakra Petch ;
+    font-size: 3rem;
+    
+}
+
+#studentNumber
+{
+    font-family: Chakra Petch ;
+
+    font-size: 1.8rem;
+}
+
+#faculty
+{
+    font-family: Chakra Petch ;
+
+    font-size: 1.25rem;
+}
+
+#contentTitle
+{
+    justify-content: center;
+    align-content: ;
+    font-family: Chakra Petch ;
+    font-size: 2.5rem;
+}
+
+.container
+{
+    display: flex;
+}
+
+.thaiText
+{
+    font-family: Chakra Petch ;
+}
+
+#contact 
+{
+    font-size: 2rem;
+}
